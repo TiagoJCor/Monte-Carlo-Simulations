@@ -4,7 +4,7 @@ Collection of Monte Carlo Simulations done as part of MATH 255D: Mathematical Mo
 
 ___
 
-### Existing directories
+### Existing directories:
 
 
   * **Ising Model**: A study of the properties of a two-dimensional ferromagnet with respect to its magnetization and energy. A phase transition is identified by performing simulations at varying temperatures and observing the degree of spin alignment at the end of each run.
