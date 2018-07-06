@@ -6,5 +6,5 @@ ___
 
 
 
-⋅⋅* Ising Model
+  * Ising Model
 A study of the properties of a two-dimensional ferromagnet with respect to its magnetization and energy at different temperatures.
